@@ -2,4 +2,10 @@
 dev2 test i know
 yes
 
+<<<<<<< HEAD
 i 404 test
+=======
+i dev21 test
+
+yes solve
+>>>>>>> dev21
